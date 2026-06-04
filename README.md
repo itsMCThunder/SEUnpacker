@@ -1,5 +1,5 @@
 # SEUnpacker
-<<<<<<< HEAD
+
 
 SEUnpacker is a desktop utility for converting StreamElements alert and widget packs into Firebot-ready overlays, events, presets, and local resources.
 
