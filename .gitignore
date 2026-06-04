@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Build output
+build/
+dist/
+*.spec
+*.pkg
+*.toc
+*.pyz
+*.exe
+*.msi
+
+# Local app output/cache
+Output/
+output/
+SEUnpacker_Output/
+temp/
+tmp/
+cache/
+.webview/
+webview/
+browser_data/
+browser-session/
+session/
+sessions/
+StreamElementsWebView/
+
+# Auth / secrets / tokens / session data
+.env
+*.env
+*.token
+*.tokens
+*.secret
+*.secrets
+*.cookie
+*.cookies
+*.session
+*.sessions
+auth.json
+tokens.json
+twitch_auth.json
+streamelements_auth.json
+streamelements_login_status.json
+settings.local.json
+user_settings.json
+
+# Firebot / local profile data
+v5/
+profiles/
+overlay-resources/
+firebot-data/
+
+# Logs
+*.log
+logs/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
