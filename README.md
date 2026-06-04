@@ -13,6 +13,14 @@ SEUnpacker is a desktop utility for converting StreamElements alert and widget p
 - Includes GitHub release update checking
 - Includes an uninstall manager for SEUnpacker-installed packs
 
+## Download
+
+Download the latest Windows installer from the Releases page:
+
+[Download SEUnpacker for Windows](https://github.com/itsMCThunder/SEUnpacker/releases/latest)
+
+SEUnpacker is currently in pre-release while active testing is underway.
+
 ## Build on Windows
 
 From the project folder, run:
